@@ -1,0 +1,8 @@
+{
+"Apple":"good",
+"Orange":["aa", {"hh":33,"55":55,"ww":[12,45,67]}],
+"Banana":3.1415,
+"Elephant":true,
+"whale":"Elephant",
+"dog": ["aa", "1234"]
+}
